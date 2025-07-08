@@ -346,9 +346,10 @@ html {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('/assets/images/photo-1453928582365-b6ad33cbcf64.jpeg');
+    background: url('../images/photo-1453928582365-b6ad33cbcf64.jpeg');
     background-position: center;
     background-size: cover;
+    background-color: var(--light-secondary-bg);
 }
 
 .hero-content {
