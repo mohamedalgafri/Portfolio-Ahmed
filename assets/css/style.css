@@ -924,6 +924,14 @@ html {
     .profile-name {
         font-size: 1.3rem;
     }
+
+    .scroll-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 35px;
+    height: 35px;
+}
 }
 
 /* Animation Classes */
